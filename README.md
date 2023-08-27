@@ -1,6 +1,10 @@
 # dio-formacao-web3-fundamentals-DIOEduTravelDAO
 DAO project for DIO's Web3 Fundamentals Training
 
+<p align="center">
+    <img width="30%" alt="DIO EduTravel DAO" title="DIO EduTravel DAO" src="./DIOEduTravelDAO.png" />
+</p>
+
 ## Vision
 
 DIO EduTravel DAO seeks to revolutionize the way people explore the world and acquire knowledge by providing a decentralized platform that connects travel and learning enthusiasts worldwide. We want to create an autonomous global community that facilitates the exchange of educational and travel experiences, enriching lives and promoting cultural understanding.
@@ -31,3 +35,14 @@ The platform allows the sharing of knowledge and skills through tutorials, works
 
 Partnerships with educational institutions and travel providers can be established to offer exclusive discounts to DAO members.
 
+##  LLC (Limited Liability Company)
+
+[Limited Liability Company](./LLC.md "Limited Liability Company")
+
+##  Invitation Card
+
+[Invitation Card](./InvitationCard.md "Invitation Card")
+
+##  Funding Mechanism for EduTravel DAO
+
+[Funding Mechanism for EduTravel DAO: ICO (Initial Coin Offering)](./FundingMechanism.md "Funding Mechanism for EduTravel DAO")
